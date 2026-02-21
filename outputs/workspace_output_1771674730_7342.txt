@@ -1,0 +1,21 @@
+/workspace
+total 84
+drwxr-xr-x 13 user user 4096 Feb 21 11:51 .
+drwxr-xr-x 20 root root 4096 Feb 20 01:32 ..
+drwxr-xr-x  4 user user 4096 Feb 13 00:53 .agent_hooks
+-rw-r--r--  1 root root 1470 Feb 21 11:28 .env.example
+drwxr-xr-x  2 root root 4096 Feb 21 11:50 buttons
+drwxr-xr-x  2 root root 4096 Feb 21 11:51 commands
+drwxr-xr-x  2 root root 4096 Feb 21 11:48 handlers
+-rw-r--r--  1 root root 1755 Feb 21 11:29 index.js
+drwxr-xr-x  2 root root 4096 Feb 21 11:45 modals
+drwxr-xr-x  2 root root 4096 Feb 21 11:29 models
+drwxr-xr-x  2 root root 4096 Feb 21 11:52 outputs
+-rw-r--r--  1 root root  680 Feb 21 11:27 package.json
+drwxr-xr-x  5 root root 4096 Feb 21 11:28 public
+drwxr-xr-x  2 root root 4096 Feb 21 11:50 selectMenus
+-rw-r--r--  1 root root 9114 Feb 21 11:25 texto.txt
+-rw-r--r--  1 root root 2870 Feb 21 11:26 todo.md
+drwxr-xr-x  2 root root 4096 Feb 21 11:29 utils
+-rw-r--r--  1 root root  124 Feb 21 11:52 warmup_test.txt
+drwxr-xr-x  2 root root 4096 Feb 21 11:28 web

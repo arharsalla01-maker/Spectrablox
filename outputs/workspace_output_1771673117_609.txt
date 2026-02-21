@@ -1,0 +1,73 @@
+MENÚ DE MIDLEMAN: este funciona con !tradesecure
+
+Empezamos con un botón que ese es el inicio de todo el botón se llama TRADE SECURE y encima un embed donde ponga SISTEMA DE TRADES ELGRINGO y abajo de esto pones TRADE ELGRINGO  y debajo de esto pones SOLICITAR MIDLEMAN y abajo a la derecha pones en pequeño SISTEMA DE TRADES SEGURO esto en pequeñito y todo decorado y bonito. Ahora viene el menú cuando le dan al botón sale el menú desplegable a cada usuario le sale lo suyo solo el botón inicial es general lo demás es para cada uno sale el menú desplegable donde están las opciones TRADE ELGRINGO y SOLICITAR MIDLEMAN si le dan a TRADE ELGRINGO que se abra un ticket para que lean las normas e instrucciones que son estas en este ticket no pueden escribir solo leer y estas son las normas que tienen que salir en el embed y que todo esté. Bonito TRADE ELGRINGO:
+TRADE ELGRINGO ES UN TRADE 100% SEGURO DONDE TRADEARAS CON EL EQUIPO DEL SERVER
+📃ANTES DE SEGUIR CON EL TRADE TIENES QUE LEER NUESTRAS NORMAS Y ACEPTARLAS:
+1.Todos los trades se hacen en nuestro server privado 
+2.Nosotros cojemos primero todo y después cojes tú 
+3.Si aceptas estas condiciones dale al botón de ACEPTO gracias.
+Y debajo que hayan 2 botones uno de ACEPTO ESTAS CONDICIONES y otro que diga NO ACEPTO.
+Si acepta se abre un ticket final con estos botones reclamar:(solo los roles que son mod,admin y owner cuando lo reclamen que salga ahí en el ticket quien lo reclamo) cerrar:(todos) fui estafado:(escribe algún texto en rojo esto podría ser una estafa mantén la calma y que mencione al owner y admin) trade completado:(le tiene que dar solo la persona que lo creo una vez le dé se cierra el ticket y antes de que se cierre le sale una modal donde puede escribir como le fue en el trade y eso que se mande automáticamente a otro canal donde están las proffs y que se mande lo que tradeo el chico y lo que puso en la modal y que quede todo bonito). Cuando se habrá el ticket le sale un campo donde tiene que poner su id de Roblox una vez lo ponga le sale ahí ve a la página web oficial del server y publica tus brainrots ahí y mandas el enlace de tu perfil aquí (una vez que lo haya mandado sale un mensaje ahí diciendo ten paciencia un staff te atenderá dentro de nada) esto solo es una parte del primer menú. ESTO LO QUIERO ASÍ IDÉNTICO VALE? Y que no salgan fallos de interacción ni nada que funcione a la primera
+
+Ahora vamos con solicitar midleman cuando le den sale un embed diciendo NECESITAS UN MIDLEMAN?
+UN MIDLEMAN TE AYUDARÁ A HACER TRADES CON OTROS USUARIOS SIN PROBLEMA 
+TEN ESTA INFORMACIÓN A MANO:
+Usuario con quien tradearas
+Información del trade
+Rango del trade
+Debajo de esto que haya 2 botones uno de aceptar y otro rechazar si acepta le sale un menú desplegable donde salen las personas del server y tiene que elegir con quien tradeara una vez que eliga sale una modal donde hay 2 huecos donde tiene que poner que da cada uno una vez la envíe sale un menú desplegable donde elegirá el rango del trade que son MM BAJO MM MEDIO Y MM ALTO esto es clave para el filtro de tickets cuando seleccionen qué rango es se abre un ticket temporal con un embed donde poner toda la información y debajo 2 botones de aceptar o rechazar esta es la confirmación del usuario B si el usuario B acepta se crea el ticket final y sale un campo o algo donde poner su id de Roblox que entre los usuarios no se vea dentro del ticket tienen que estar estas personas los 2 usuarios el rol que ha elegido el usuario A en la selección de rango y el Mm jefe los botones son los mismos que antes en trade elgringo  todo igual solo que en trade completado le den los 2 usuarios y se cierra 3s después  y estos ticket de midleman solo pueden reclamarlos los roles elegidos en el menú desplegable cada uno controla su apartado no pueden ver los demás apartados y el Mm jefe puede ver todos y controlar todos solo los de aqui los de trade elgringo no y ponme todo bonito.
+
+
+MENÚ DE SOPORTE:este funciona con !soporte
+
+Este es algo más fácil porque no se necesitan muchas cosas mira va a ser lo mismo que antes hay un botón inicial  llamado SOPORTE y encima un embed que pondrá esto SISTEMA DE TICKETS- ELGRINGO (esto Ariba normal con la letra que hablamos) debajo de eso pon 🆘|NECESITAS AYUDA?
+                                  ABRE UN TICKET PARA AYUDA 🎟️ (con las letras que hablamos y pon todo bonito) y pones alado en una foto pequeña esto https://cdn.discordapp.com/attachments/1470128567391224043/1474417196456349706/2EC218AD-AFED-4A33-9D87-1BC640B30A0D.png?ex=6999c584&is=69987404&hm=d431aa55ab1ecbecd622e268fb70db24f14969779b32dcee47219fd6682956f8& y debajo de esto abajo a la izquierda pones en pequeñito SISTEMA DE TICKETS|ELGRINGO esto todo solo es el embed con el botón inicial cuando le den sale un menú desplegable con estas opciones
+TRADE SECURE: que les dirija al canal de trade secure el primer menú el de arriba que es otro y que les salga un embed con bonita letra y todo y que ponga esto SI QUIERES USAR EL APARTADO DE TRADE SECURE VE A ESTE CANAL y que salga  el #midleman (pondré el canal en las variables de railway)
+REPORTAR ESTAFA:se abre ticket final con 2 botones uno de reclamar cuando se reclama sale quien lo reclamo antes de que se pueda escribir en ese ticket tiene que ser reclamado si no lo reclaman no se puede escribir 
+RECLAMAR PREMIO: se abre ticket final con 2 botones uno de reclamar y otro de cerrar cuando se reclama sale quien lo reclamo antes de que se pueda escribir en ese ticket tiene que ser reclamado si no lo reclaman no se puede escribir se abre modal para que ponga su id de Roblox
+QUIERO ROLES:que les dirija al canal de roles que es otro y que les salga un embed con bonita letra y todo ESE ES EL NUEVO CANAL PARA OBTENER ROLES.ese canal se llama #roles (pondré el canal en una variable de railway)
+ALIANZAS:Se abre ticket final final con los mismos botones de cerrar y reclamar y tiene que esperar hasta que se reclame el ticket y ya podrá escribir 
+OTROS:Se abre ticket final con los mismos botones de reclamar o cerrar y no se puede escribir hasta que no se reclame el ticket.
+
+Todos estos ticket pueden ser reclamados por:helper,mods,admin y owner 
+
+
+MENÚ DE ROLES: este funciona con !roles
+
+Es casi lo mismo pero aquí es donde necesito la web. Botón inicial llamado  👑 SOLICITAR ROLES (con el botón incial que no se olvide)
+Encima del botón que haya un embed y que ponga esto  👑 ROLES
+ROL:REAL: Tiene ventajas en el server y se sabe que eres confiable 
+ROL:HELPER: Mod de prueba ayudas en el server y controlas en el server cosas mínimas
+ROL:MIDLEMAN: Controla tickets de midleman depende de que fianza dejes se te dará un rol.
+
+Si alguien le da en el menú desplegable a real tienes que hacer esto rol real se gana iniciando sesión con Discord en la web oficial de SPECTRABLOX una vez se detecte que a iniciado sesión se le otorgará el rol y se le avisa.(pon la URL bien puesta)
+
+Como se consigue el rol helper cuando le dén al rol helper si hay plazas disponibles se abre un ticket para el usuario y el bot le hace las siguentes preguntas una tras una cuando responda una sale la otra 
+	1.	TIENES EXPERIENCIA SIENDO HELPER EN OTRO SERVIDOR SI ES ASÍ EN CUÁL 
+	2.	CUANTOS AÑOS TIENES?
+	3.	DONDE TE RESIDES?
+	4.	QUE HARÍAS SI 2 USUARIOS SE ESTÁN PELEANDO EN UN CHAT GENERAL 
+	5.	¿Estás abierto a recibir críticas constructivas y sugerencias de mejora por parte de la Administración?
+	6.	ESTARÁS EN LAS BUENAS Y EN LAS MALAS
+	7.	TE HAS LEÍDO LAS #normas 
+este es el fin de esta entrevista.	1	Cuando se acaban todas las preguntas, el bot genera un Embed Grande (un cuadro con color y letras tipo Canva) que dice:
+	•	Candidato: [@Usuario]
+	•	Pregunta 1: [Su respuesta]
+	•	Pregunta 2: [Su respuesta]
+	•	... y así con todas. 
+	1.	Veredicto: Debajo de ese resumen, el bot pone los botones de ✅ Aceptar y ❌ Rechazar (estos tickets los pueden usar admins y owners)
+
+
+Para Middleman: Ticket con preguntas de fianza (Brainrot + Rangos 20-50, 50-100, +150). El bot espera a que yo recoja la fianza y luego me da botones de Dar Rol o Cancelar (estos tickets solo pueden usarlos admin y owner) (Esto también va dentro de roles no en otro lado)
+
+Y ponme un comando que sea para añadir o quitar plazas 
+
+
+
+SECCIÓN WEB (Estilo Borsiis):
+	•	Diseño: Quiero que la web sea idéntica a suap.borsiis.com en estructura (cartas de ítems, fondo oscuro y botones modernos).
+	•	Personalización: Cambia todos los logos de Borsiis por los de Spectrablox. Donde diga "Borsiis", pon ELGRINGO.
+	•	Colores: Usa [Tus colores favoritos, ej: Negro y Dorado] en lugar de los originales.
+	•	Función Principal: Botón de "Login con Discord" que al entrar dé el Rol Automático [Nombre del Rol].
+	•	Muro de Tradeos: Que se vean los "brainrots" con la foto y el perfil de quien lo sube https://cdn.discordapp.com/attachments/1470128567391224043/1474417196456349706/2EC218AD-AFED-4A33-9D87-1BC640B30A0D.png?ex=6999c584&is=69987404&hm=d431aa55ab1ecbecd622e268fb70db24f14969779b32dcee47219fd6682956f8&
+
