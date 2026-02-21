@@ -26,12 +26,16 @@ Bot completo de Discord para el servidor Spectrablox con sistema de tickets, rol
 - Comando `/plazas` para gestionar plazas de Helper
 
 ### 🌐 Página Web
-- Diseño estilo Borsiis con colores negro y dorado
+- **Diseño idéntico a suap.borsiis.com** con estructura móvil tipo app
+- Colores negro y dorado personalizados
 - Login con Discord OAuth2
 - Otorgamiento automático del rol REAL
-- Muro de trades con brainrots
-- Sistema de subida de imágenes
-- Diseño responsive y moderno
+- **Muro de trades con brainrots** en grid de 2 columnas
+- **Sistema de subida de imágenes** con modal
+- **Tabs de filtro**: Feed, Free, New
+- **Navegación inferior**: Feed, Chats, Profile
+- **Modales interactivos** para ver detalles y subir items
+- Diseño responsive optimizado para móvil
 
 ## 📋 Requisitos Previos
 
@@ -176,6 +180,30 @@ npm run web
 - `/plazas añadir <cantidad>` - Añade plazas de Helper
 - `/plazas quitar <cantidad>` - Quita plazas de Helper
 - `/plazas ver` - Ver plazas disponibles
+
+## 🎨 Diseño de la Página Web
+
+La página web ha sido diseñada para ser **idéntica a suap.borsiis.com** con las siguientes características:
+
+### Estructura Móvil
+- **Diseño tipo app móvil** con ancho máximo de 480px
+- **Header fijo** con logo y botón de login
+- **Navegación inferior** con 3 secciones: Feed, Chats, Profile
+- **Grid de 2 columnas** para mostrar los brainrots
+
+### Funcionalidades
+- **Tabs de filtro**: Feed (todos), Free (gratuitos), New (nuevos)
+- **Cards interactivas** con imagen, usuario y descripción
+- **Modal de detalle** para ver información completa del brainrot
+- **Modal de subida** para publicar nuevos brainrots
+- **Sistema de autenticación** con Discord OAuth2
+
+### Características Visuales
+- Colores negro (#0d0d0d) y dorado (#FFD700)
+- Animaciones suaves en hover y transiciones
+- Scrollbar personalizado
+- Loading states y empty states
+- Diseño completamente responsive
 
 ## 🌐 Despliegue en Railway
 

@@ -63,8 +63,8 @@
 - [x] Crear README con instrucciones
 - [x] Configurar Railway variables
 - [x] Crear scripts de despliegue
-- [x] Subir todo al repositorio GitHub
-- [x] Verificar funcionalidad completa
+- [ ] Subir todo al repositorio GitHub
+- [ ] Verificar funcionalidad completa
 
 ## [x] Documentación Final
 - [x] Crear guía de instalación

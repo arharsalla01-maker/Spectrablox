@@ -1,0 +1,87 @@
+[master (root-commit) 2ee25cc] Initial commit: Complete Spectrablox bot with all features
+ Committer: root <root@172.16.170.86>
+Your name and email address were configured automatically based
+on your username and hostname. Please check that they are accurate.
+You can suppress this message by setting them explicitly:
+
+    git config --global user.name "Your Name"
+    git config --global user.email you@example.com
+
+After doing this, you may fix the identity used for this commit with:
+
+    git commit --amend --reset-author
+
+ 73 files changed, 4724 insertions(+)
+ create mode 100755 .agent_hooks/run_all_hooks.py
+ create mode 100755 .agent_hooks/shutdown/00_track_processes_on_ports.py
+ create mode 100644 .agent_hooks/shutdown/_readme.txt
+ create mode 100644 .agent_hooks/startup/_readme.txt
+ create mode 100644 .env.example
+ create mode 100644 .gitignore
+ create mode 100644 README.md
+ create mode 100644 buttons/helper_accept.js
+ create mode 100644 buttons/helper_reject.js
+ create mode 100644 buttons/midleman_aceptar.js
+ create mode 100644 buttons/midleman_app_claim.js
+ create mode 100644 buttons/midleman_app_give_role.js
+ create mode 100644 buttons/midleman_cancel.js
+ create mode 100644 buttons/midleman_confirm.js
+ create mode 100644 buttons/midleman_rechazar.js
+ create mode 100644 buttons/mm_claim.js
+ create mode 100644 buttons/mm_close.js
+ create mode 100644 buttons/mm_complete.js
+ create mode 100644 buttons/mm_scam.js
+ create mode 100644 buttons/roles_menu.js
+ create mode 100644 buttons/soporte_menu.js
+ create mode 100644 buttons/support_claim.js
+ create mode 100644 buttons/support_close.js
+ create mode 100644 buttons/trade_claim.js
+ create mode 100644 buttons/trade_close.js
+ create mode 100644 buttons/trade_complete.js
+ create mode 100644 buttons/trade_elgringo_acepto.js
+ create mode 100644 buttons/trade_elgringo_no_acepto.js
+ create mode 100644 buttons/trade_scam.js
+ create mode 100644 buttons/tradesecure_menu.js
+ create mode 100644 commands/plazas.js
+ create mode 100644 commands/roles.js
+ create mode 100644 commands/soporte.js
+ create mode 100644 commands/tradesecure.js
+ create mode 100644 handlers/buttonHandler.js
+ create mode 100644 handlers/interactionCreate.js
+ create mode 100644 handlers/messageCreate.js
+ create mode 100644 handlers/modalHandler.js
+ create mode 100644 handlers/selectMenuHandler.js
+ create mode 100644 index.js
+ create mode 100644 modals/midleman_trade_details.js
+ create mode 100644 modals/mm_feedback.js
+ create mode 100644 modals/premio_roblox_id.js
+ create mode 100644 modals/trade_elgringo_roblox_id.js
+ create mode 100644 modals/trade_feedback.js
+ create mode 100644 models/Brainrot.js
+ create mode 100644 models/Ticket.js
+ create mode 100644 models/User.js
+ create mode 100644 outputs/workspace_output_1771673117_609.txt
+ create mode 100644 outputs/workspace_output_1771673292_4745.txt
+ create mode 100644 outputs/workspace_output_1771673522_2063.txt
+ create mode 100644 outputs/workspace_output_1771674714_4087.txt
+ create mode 100644 outputs/workspace_output_1771674730_7342.txt
+ create mode 100644 outputs/workspace_output_1771674756_5862.txt
+ create mode 100644 outputs/workspace_output_1771675499_4534.txt
+ create mode 100644 outputs/workspace_output_1771675515_7120.txt
+ create mode 100644 outputs/workspace_output_1771675518_6797.txt
+ create mode 100644 outputs/workspace_output_1771675523_6339.txt
+ create mode 100644 outputs/workspace_output_1771675527_3234.txt
+ create mode 100644 package.json
+ create mode 100644 public/css/style.css
+ create mode 100644 public/index.html
+ create mode 100644 public/js/script.js
+ create mode 100644 selectMenus/midleman_select_range.js
+ create mode 100644 selectMenus/midleman_select_rank.js
+ create mode 100644 selectMenus/midleman_select_user.js
+ create mode 100644 selectMenus/roles_options.js
+ create mode 100644 selectMenus/soporte_options.js
+ create mode 100644 selectMenus/tradesecure_options.js
+ create mode 100644 texto.txt
+ create mode 100644 todo.md
+ create mode 100644 utils/database.js
+ create mode 100644 web/server.js
